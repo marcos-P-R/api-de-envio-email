@@ -1,0 +1,19 @@
+{
+  "name": "api-de-envio-email",
+  "version": "1.0.0",
+  "description": "Api de envio de email com nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos-P-R/api-de-envio-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos-P-R/api-de-envio-email/issues"
+  },
+  "homepage": "https://github.com/marcos-P-R/api-de-envio-email#readme"
+}
